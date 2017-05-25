@@ -115,3 +115,4 @@ Webasyst — входит в стандартную поставку PHP-фре�
 WYSIWYM-редактор Texts для Windows/Mac OS[53]
 ## 8.2 <a name="Processes2"></a>Проверка 
 [[PDF]](Bib.md)
+<A name="Biblio.md#PDF"> PDF </a>
